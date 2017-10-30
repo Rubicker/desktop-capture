@@ -18,3 +18,5 @@
   "permissions": ["desktopCapture"]
 }
 ```
+
+## `extension.js`
